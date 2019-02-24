@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/friendsofredaxo.github.io/assets/v2/custom/FOR-banner_1600x600.png)
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
