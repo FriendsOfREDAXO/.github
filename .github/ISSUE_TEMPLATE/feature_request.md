@@ -1,13 +1,4 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: "\U0001F4A1 Suggest an idea or feature"
 about: Before you start, check whether a similar suggestion was already made.
 
