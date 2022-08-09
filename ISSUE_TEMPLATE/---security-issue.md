@@ -6,10 +6,8 @@ about: Please don't disclose security-releated issues publicy / Bitte melde kein
 
 PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY.
 
-If you have found a security issue in REDAXO, please send the details to info@redaxo.de and don't disclose it publicly until we can provide a fix for it. 
-Further information on security, you can find on redaxo.org (german): https://redaxo.org/support/sicherheit/ 
+If you have found a security issue, please send the details to the project lead or report it in the Slack channel: https://friendsofredaxo.slack.com and don't disclose it publicly until we can provide a fix for it. 
 
 BITTE VERÖFFENTLICHEN SIE KEINE SICHERHEITSRELEVANTEN PROBLEME.
 
-Wenn Sie ein Sicherheitsproblem in REDAXO gefunden haben, senden Sie bitte die Details an info@redaxo.de und geben Sie diese nicht öffentlich bekannt, bis wir eine Lösung dafür gefunden haben. 
-Weitere Informationen zum Thema Sicherheit: https://redaxo.org/support/sicherheit/
+Wenn Sie ein Sicherheitsproblem gefunden haben, senden Sie bitte die Details an den jeweiligen Projekt-Lead oder melden Sie diese im Slack-Kanal: https://friendsofredaxo.slack.com und geben Sie diese nicht öffentlich bekannt, bis wir eine Lösung dafür gefunden haben. 
